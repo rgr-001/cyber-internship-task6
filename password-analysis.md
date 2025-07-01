@@ -1,7 +1,5 @@
 # 🔐 Password Strength Analysis
 
-# 🔐 Password Strength Analysis
-
 | Password             | Score   | Feedback       | Remarks                                      |
 |----------------------|---------|----------------|----------------------------------------------|
 | sunflower2025        | 59%     | Good           | Too simple; lacks symbols or uppercase       |
